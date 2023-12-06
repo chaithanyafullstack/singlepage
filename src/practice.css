@@ -1,0 +1,7 @@
+.head{
+    background-color: yellow;
+    padding: 20px;
+    font-size: larger;
+    display: flex;
+    justify-content: space-around;
+}
